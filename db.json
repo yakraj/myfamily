@@ -1,45 +1,40 @@
 {"Members": [
 		{
-			"id": '1',
-			"status":'',
-			"relation": 'Mother',
-			"image": 'https://lh3.googleusercontent.com/WlQf5HEZ-qtcpALKuR9CK6xDBVDtNzshpF3C9j5ztevizn42B7mthvthHDuEo3BUElXdZm76ASO-T8zjNUCeAVBPJ7TSdwiLpxB4aoIzhmUcusqgu8fdhLAOs9gw7uOnUiwHw2AIgl7XkkqmTvwIbSIkVZLUyMYHq9tVqwaq8JOsR3ngPQxJM3ITpCcRyv8UJJtj7yCkf9JpelHhPWgD6Whg_Rg7fSoGoBMfU-KoYaSAxmV5zffoy_Da_BbfZvuemst_qZr-BaJbpgW2hNZNnHL3HnjvC0G-oQfb1sJZx8_mshpKyVUId8WTsx3F8LWZ-y_5o88fmGorDgvP20Z1SOBmQTG7aLy6w1coqNpNGSqi0cF2suYpGjM1X54_wt3dX5_NO3wPK4NIyfeLJPEHzxP3QvGqfvnVTDRjWA0jU9OdhO1yDK5uuBR6w4_eAgePF42ylmqsxigUsJMSLNyF0aQsfgVx8co1B_BebdDarMTg7hOnyykKbYd_UhCgvYydD1-n-gwhshhaiXgOt9a4_6kwXrIRtHvoYU8w38Vt5PeCk93fpqqGzRqOQCd25CjOHg4uDbi60w_7rQmg7kdfVkRr5uKiYDkn6H0e3hC5N3dIOJwGFWasKj5Ccygl7f0tQi4CuvICOYblDAtl6BOID-eo6QKZcIzstGhkIx0h7hdH2kuKPfhFajbwP2qi=w1326-h663-no?authuser=0',
-			"name": 'Tulsi Pariyar',
-			"tags":'mamu,mother,aama,tulsi pariyar,tulsi',
-			"DOB": '15 September , 1982',
+			'id': '1',
+			'relation': 'Mother',
+			'image': 'https://lh3.googleusercontent.com/WlQf5HEZ-qtcpALKuR9CK6xDBVDtNzshpF3C9j5ztevizn42B7mthvthHDuEo3BUElXdZm76ASO-T8zjNUCeAVBPJ7TSdwiLpxB4aoIzhmUcusqgu8fdhLAOs9gw7uOnUiwHw2AIgl7XkkqmTvwIbSIkVZLUyMYHq9tVqwaq8JOsR3ngPQxJM3ITpCcRyv8UJJtj7yCkf9JpelHhPWgD6Whg_Rg7fSoGoBMfU-KoYaSAxmV5zffoy_Da_BbfZvuemst_qZr-BaJbpgW2hNZNnHL3HnjvC0G-oQfb1sJZx8_mshpKyVUId8WTsx3F8LWZ-y_5o88fmGorDgvP20Z1SOBmQTG7aLy6w1coqNpNGSqi0cF2suYpGjM1X54_wt3dX5_NO3wPK4NIyfeLJPEHzxP3QvGqfvnVTDRjWA0jU9OdhO1yDK5uuBR6w4_eAgePF42ylmqsxigUsJMSLNyF0aQsfgVx8co1B_BebdDarMTg7hOnyykKbYd_UhCgvYydD1-n-gwhshhaiXgOt9a4_6kwXrIRtHvoYU8w38Vt5PeCk93fpqqGzRqOQCd25CjOHg4uDbi60w_7rQmg7kdfVkRr5uKiYDkn6H0e3hC5N3dIOJwGFWasKj5Ccygl7f0tQi4CuvICOYblDAtl6BOID-eo6QKZcIzstGhkIx0h7hdH2kuKPfhFajbwP2qi=w1326-h663-no?authuser=0',
+			'name': 'Tulsi Pariyar',
+			'tags':'mamu,mother,aama,tulsi pariyar,tulsi',
+			'DOB': '15 September , 1982',
 		},{
-			"id": '2',
-			"status":'',
-			"relation":'Self Me',
-			"image": 'https://lh3.googleusercontent.com/VWM6cdOyO8YcJtMY3DzMeVK6Baj9vKiSe2vIZtJztICRsfSETp9JSwYgYGs-cWXGp9kwi1tf5KdGHOmrB1wvXcVIGmJrvshe_Gdn10rc7NIAvcWY7lkogZNpXhIzraVqcvoYNMOulWxQHHNa6FPON_eyi_QXBtrZC1lXaEd9AkDKsJ8IQCfMCTwE2jbLhDAb6Uu2t4h83_8em2njFKsAfPAwk1yfZqN-FMdwVg2ylkShcijLvuuo7dzBv-MIzz-4N8-P46OwTxVYEU6rwUT5pE577gHz4FCnm8r0rTM61E0A5Yz8C1C4CbVRN-jGkTkETJS86tAivpgEqIx7eiX3kym7NobC0bhvlpGrTL6plwH8aoWyN1FVaKnYwTVek2l7Cz_CMRGxUolX1dQIrtARgziNM39ANuXiwPuoyeUNrKUvwdNK21S4BEikHfBRRc1lbE8OBM5Vh2RQw5PyRQfW8cl-etaoihCfMNY0YskyDRWps8aQu4BGbELHAJCZHSfILMf-NVGJJnC7pZ6ErdADaG5A26ESGfL-xgD3qRE2Z2loVQLa1VZzaG72wx2TRJRwr8Hygu3ku601lDPEFRMeD2DWzRZLi1cJuZFvOu0YvKrVmdaF-hnlg-P_96qgHSGE_9tTfUlVgal6QesuijRj7ejebUIb-ig_ksTlxE75CJb0XsALcqm-S6dkic1M=w1326-h663-no?authuser=0',
-			"name": 'Yakraj Pariyar',
-			"tags":'me,brother, bro,yakraj, pariyar, yakraj pariyar, yakraj, i',
-			"DOB": '10 December 2000'
+			'id': '2',
+			'relation':'Self Me',
+			'image': 'https://lh3.googleusercontent.com/VWM6cdOyO8YcJtMY3DzMeVK6Baj9vKiSe2vIZtJztICRsfSETp9JSwYgYGs-cWXGp9kwi1tf5KdGHOmrB1wvXcVIGmJrvshe_Gdn10rc7NIAvcWY7lkogZNpXhIzraVqcvoYNMOulWxQHHNa6FPON_eyi_QXBtrZC1lXaEd9AkDKsJ8IQCfMCTwE2jbLhDAb6Uu2t4h83_8em2njFKsAfPAwk1yfZqN-FMdwVg2ylkShcijLvuuo7dzBv-MIzz-4N8-P46OwTxVYEU6rwUT5pE577gHz4FCnm8r0rTM61E0A5Yz8C1C4CbVRN-jGkTkETJS86tAivpgEqIx7eiX3kym7NobC0bhvlpGrTL6plwH8aoWyN1FVaKnYwTVek2l7Cz_CMRGxUolX1dQIrtARgziNM39ANuXiwPuoyeUNrKUvwdNK21S4BEikHfBRRc1lbE8OBM5Vh2RQw5PyRQfW8cl-etaoihCfMNY0YskyDRWps8aQu4BGbELHAJCZHSfILMf-NVGJJnC7pZ6ErdADaG5A26ESGfL-xgD3qRE2Z2loVQLa1VZzaG72wx2TRJRwr8Hygu3ku601lDPEFRMeD2DWzRZLi1cJuZFvOu0YvKrVmdaF-hnlg-P_96qgHSGE_9tTfUlVgal6QesuijRj7ejebUIb-ig_ksTlxE75CJb0XsALcqm-S6dkic1M=w1326-h663-no?authuser=0',
+			'name': 'Yakraj Pariyar',
+			'tags':'me,brother, bro,yakraj, pariyar, yakraj pariyar, yakraj, i',
+			'DOB': '10 December 2000'
 		},{
-			"id": '3',
-			"status":'',
-			"relation":'Sister',
-			"image":'https://lh3.googleusercontent.com/aTdtzS5ckFMjDvy_JGd9639wiGYP-wA-uqR38VmseKqjb91JyrTxBcsZ9Yy645lIjnMH29WHlESjW2WHBFlwALt_j5lId1bjQVTRRczNql95yWNKUBUuZJlbMvglVBUD_m-66F_-bSk00Soxcxo02h1OYATEMOx1HBYbU8fxwFU-OzVsYoZpSgzOh-9VODbC3eTRN-yKyaK6PyGquiPzI2j-11QIau6gF5EegeFjidL6HodgfX-k1QwyPPWd-0DccR1L2dk2mj_hr_Bsd78ekcbS3dNhqvG8yh4QPim4KaDp0lufZoNkxslkfWw5N4WOPckE3avtCjLyNB5Zk8_vryBqJox3UqDMFYN1rx3s6bJF3zUEFQQrtSMdtP1BZCE8N-yaABXMwl6twZeDtfN6Gb2x_3m-qwqMJ4MU2T2bo2JdhmzHLf5hHILZcd_a5KGHu2xzwXhO3yKsNYGMTZ_L7T5aGO5p5jT2CO6N0pXmvCrcizZ8VGCRHdBnl12XCn2VOY-q4SFwj4IPVa_5BpwGazV77o-fQkS3-zZDnBf9Rhvtof3AvEYmyPczX06AYhZzk8_6bNlCIOlnRX_FGOI74xkH2vpzNRcMdJzuJPjzgJKgNrTk3XYUMKq3CKc8nzyhv8zxWJzqPcxlGN-ryaWRA891ypKzu_dUwjkB0kEGF8ghUnxOzJdMF2kjPYvH=w498-h663-no?authuser=0',
-			"name": 'Amrita pariyar',
-			"tags":'ashmita, amrita, ashmi, sister, ashmita pariyar, amrita, pariyar, sister,sis',
-			"DOB": '8 January , 2003'
+			'id': '3',
+			'relation':'Sister',
+			'image':'https://lh3.googleusercontent.com/aTdtzS5ckFMjDvy_JGd9639wiGYP-wA-uqR38VmseKqjb91JyrTxBcsZ9Yy645lIjnMH29WHlESjW2WHBFlwALt_j5lId1bjQVTRRczNql95yWNKUBUuZJlbMvglVBUD_m-66F_-bSk00Soxcxo02h1OYATEMOx1HBYbU8fxwFU-OzVsYoZpSgzOh-9VODbC3eTRN-yKyaK6PyGquiPzI2j-11QIau6gF5EegeFjidL6HodgfX-k1QwyPPWd-0DccR1L2dk2mj_hr_Bsd78ekcbS3dNhqvG8yh4QPim4KaDp0lufZoNkxslkfWw5N4WOPckE3avtCjLyNB5Zk8_vryBqJox3UqDMFYN1rx3s6bJF3zUEFQQrtSMdtP1BZCE8N-yaABXMwl6twZeDtfN6Gb2x_3m-qwqMJ4MU2T2bo2JdhmzHLf5hHILZcd_a5KGHu2xzwXhO3yKsNYGMTZ_L7T5aGO5p5jT2CO6N0pXmvCrcizZ8VGCRHdBnl12XCn2VOY-q4SFwj4IPVa_5BpwGazV77o-fQkS3-zZDnBf9Rhvtof3AvEYmyPczX06AYhZzk8_6bNlCIOlnRX_FGOI74xkH2vpzNRcMdJzuJPjzgJKgNrTk3XYUMKq3CKc8nzyhv8zxWJzqPcxlGN-ryaWRA891ypKzu_dUwjkB0kEGF8ghUnxOzJdMF2kjPYvH=w498-h663-no?authuser=0',
+			'name': 'Amrita pariyar',
+			'tags':'ashmita, amrita, ashmi, sister, ashmita pariyar, amrita, pariyar, sister,sis',
+			'DOB': '8 January , 2003'
 
 		},{
-			"id": '4',
-			"status":'',
-			"relation":'Sister',
-			"image": 'https://lh3.googleusercontent.com/txLkefraw74AYfPacWOeEVBKTv0V9OCV5mDsVi37ckVZ0YmhBD6nrx9yEhiYDoBTuD13nHxGuu126X_n3Smu6mCzpcYUMXSGlNcRBplO-fi7DaNUgIH9bqQLSDB1AzxQ8Nx46pA0qmaTGstmpq1GAM05eX4bhoi1-mYD2xVv_tsgJFawO7FNPd7753fV9p6K-dv4MWaUxwNKr3c09zDo2msZh8k3REfAFBRux7uQFxVUYFuM4jNIP8dkuciv6q2LGzETFAoQaDNktNdxCW_qgpp4Q86xR5MQuHm_yhuz3xy__q52FS4kLOZ8-gIFz9lq2DSK-R06MlKnmH_BpJB72oGutXDUH2XkTKa5ir_O6cugdoC14A7EAVo8oUlSRGSCaHGmRe7kobO9HUA8tHw0DaNaFAZuxkjD1BwtjKyCfF9tnkXWlC4-zWXc9R1sEN3akswHETgMnbBlswup2p3vTOORs1Qmev96b4fKFuhXZ7SBooadnsS0ltpCXKQap77Y69dUR11UPmFl2qwqCz4yWPQriV3KBFjcV_mCsyRF5kqqnO48CiyzEkaIThyPXdCrjxhVU4jBOsCtpTTDR1ynBKJzJfOMXdVSoYTSHXU7ekSl0YmQhL_PQbWqB4M0APc6DLPq_pkQoO5Mkm7Udb5afEI-SpKrWvHt1H6-nl-OUwG-2fyz-hc7ZySasw5b=w498-h663-no?authuser=0',
-			"name": 'Dolma Pariyar',
-			"tags":'dolma, dolma pariyar,kali,sis,sister,dolma',
-			"DOB": '16 January 2006'		
+			'id': '4',
+			'relation':'Sister',
+			'image': 'https://lh3.googleusercontent.com/txLkefraw74AYfPacWOeEVBKTv0V9OCV5mDsVi37ckVZ0YmhBD6nrx9yEhiYDoBTuD13nHxGuu126X_n3Smu6mCzpcYUMXSGlNcRBplO-fi7DaNUgIH9bqQLSDB1AzxQ8Nx46pA0qmaTGstmpq1GAM05eX4bhoi1-mYD2xVv_tsgJFawO7FNPd7753fV9p6K-dv4MWaUxwNKr3c09zDo2msZh8k3REfAFBRux7uQFxVUYFuM4jNIP8dkuciv6q2LGzETFAoQaDNktNdxCW_qgpp4Q86xR5MQuHm_yhuz3xy__q52FS4kLOZ8-gIFz9lq2DSK-R06MlKnmH_BpJB72oGutXDUH2XkTKa5ir_O6cugdoC14A7EAVo8oUlSRGSCaHGmRe7kobO9HUA8tHw0DaNaFAZuxkjD1BwtjKyCfF9tnkXWlC4-zWXc9R1sEN3akswHETgMnbBlswup2p3vTOORs1Qmev96b4fKFuhXZ7SBooadnsS0ltpCXKQap77Y69dUR11UPmFl2qwqCz4yWPQriV3KBFjcV_mCsyRF5kqqnO48CiyzEkaIThyPXdCrjxhVU4jBOsCtpTTDR1ynBKJzJfOMXdVSoYTSHXU7ekSl0YmQhL_PQbWqB4M0APc6DLPq_pkQoO5Mkm7Udb5afEI-SpKrWvHt1H6-nl-OUwG-2fyz-hc7ZySasw5b=w498-h663-no?authuser=0',
+			'name': 'Dolma Pariyar',
+			'tags':'dolma, dolma pariyar,kali,sis,sister,dolma',
+			'DOB': '16 January 2006'		
 		},{
-			"id": '5',
-			"status":'',
-			"relation":'Sister',
-			"image": 'https://lh3.googleusercontent.com/8fG7pVVvQnI15x-3Z9i7SiH1leB_djrytE_LcZ-yy7R-qJg-l4jAnsjUIRyekFo6MNjYsjIWazptsdYhcAjGis0UGUl1a0fUlPnB-4PWInhdnnfesEGVmleoE6mgcf-2nCuIrcBKHJhQA_QQyc8ugp_8JZngnlNnRL3w8LBTd7JMllTgRxlC6SJo3x9EpAcNep8UvIft28S9YNaG7IYZvR8p4YF5cPCS07X1Q9hiMk6CqrCq0k_Hd0GYvIX55O-SOmoCP4L1errFN9b8dFyIuRK4HA7W7IwjBetLu6XxrBqo8I5qE_2CXzDI_Nw-J0QowX2h4RXcHzYb0QPQv7P-xpKuZkloj_j8PMiD4vS0VZseNgMbiF-hueLMQ7HmIO8QNKN4lfObcdUzEhen3xtyDkhHgdskkYxOSgxfyDjion3ZpAirrpLgEUBCnnrpndROPDsNse6Atm_ar9J7LoYY0Jwx4LcrQT6bdettYjTv_lMsjoLAJYJXFvCilBDDDmjhTZgMWWnoGEeq4ahtIYrWI-umozwog6Pkat7n6LehmJKkPsUKz_s6z8MIa5O-nKLFL-mgelh4FqsnNlgQ_nE2kllHHBY5yYxB6Qey4V53MGgUzUO9aGgZjgv8e_gwr0M0prwvQjHdEBRD63E3hyM-FRDzFv_pbyZ0tIVD_2FPiO3OoZ6K-8Qo75tRUVoE=w498-h663-no?authuser=0',
-			"name": 'Dhanisha Pariyar',
-			"tags":'punti,dhanisha,pariyar,dhani,bhaisi',
-			"DOB": '14 May 2009'		
+			'id': '5',
+			'relation':'Sister',
+			'image': 'https://lh3.googleusercontent.com/8fG7pVVvQnI15x-3Z9i7SiH1leB_djrytE_LcZ-yy7R-qJg-l4jAnsjUIRyekFo6MNjYsjIWazptsdYhcAjGis0UGUl1a0fUlPnB-4PWInhdnnfesEGVmleoE6mgcf-2nCuIrcBKHJhQA_QQyc8ugp_8JZngnlNnRL3w8LBTd7JMllTgRxlC6SJo3x9EpAcNep8UvIft28S9YNaG7IYZvR8p4YF5cPCS07X1Q9hiMk6CqrCq0k_Hd0GYvIX55O-SOmoCP4L1errFN9b8dFyIuRK4HA7W7IwjBetLu6XxrBqo8I5qE_2CXzDI_Nw-J0QowX2h4RXcHzYb0QPQv7P-xpKuZkloj_j8PMiD4vS0VZseNgMbiF-hueLMQ7HmIO8QNKN4lfObcdUzEhen3xtyDkhHgdskkYxOSgxfyDjion3ZpAirrpLgEUBCnnrpndROPDsNse6Atm_ar9J7LoYY0Jwx4LcrQT6bdettYjTv_lMsjoLAJYJXFvCilBDDDmjhTZgMWWnoGEeq4ahtIYrWI-umozwog6Pkat7n6LehmJKkPsUKz_s6z8MIa5O-nKLFL-mgelh4FqsnNlgQ_nE2kllHHBY5yYxB6Qey4V53MGgUzUO9aGgZjgv8e_gwr0M0prwvQjHdEBRD63E3hyM-FRDzFv_pbyZ0tIVD_2FPiO3OoZ6K-8Qo75tRUVoE=w498-h663-no?authuser=0',
+			'name': 'Dhanisha Pariyar',
+			'tags':'punti,dhanisha,pariyar,dhani,bhaisi',
+			'DOB': '14 May 2009'		
 		}
 
 ]}
